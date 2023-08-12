@@ -3,4 +3,5 @@ In this project, we are going to do marketing in a way that is predictable by us
 into specific groups based on received patterns and perform analysis on those groups.
 
 Negin Forouzan . Ali Soleimani . Reza Najafzadeh
-Prof Sadeghzadeh
+
+(Prof Sadeghzadeh)
